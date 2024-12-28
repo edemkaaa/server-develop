@@ -68,7 +68,7 @@ const messageHandlers = {
             analyticsService.updateStats(data),
             inventoryService.updateInventory(data)
         ]);
-        console.log('✅ Событие PHONE_DELETED обработано');
+        console.log('✅ Событие PHONE_DELETED обработано');L
     }
 };
 
