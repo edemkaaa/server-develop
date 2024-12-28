@@ -1,0 +1,15 @@
+{
+  "name": "auth-app",
+  "version": "1.0.0",
+  "description": "Приложение для регистрации и логина",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "pg": "^8.5.1"
+  }
+}

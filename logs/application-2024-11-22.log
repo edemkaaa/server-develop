@@ -1,0 +1,5 @@
+{"level":"info","message":"Сервер запущен на порту 3001","timestamp":"2024-11-22T08:45:25.210Z"}
+{"body":{"price":899.99,"stock":32},"level":"info","message":"Входящий запрос","method":"GET","params":{},"query":{},"timestamp":"2024-11-22T09:14:53.856Z","url":"/api/phones/"}
+{"duration":"9ms","level":"info","message":"Завершенный запрос","method":"GET","status":200,"timestamp":"2024-11-22T09:14:53.864Z","url":"/api/phones/"}
+{"level":"info","memoryDelta":{"external":40,"heapTotal":262144,"heapUsed":306488},"message":"Метрики производительности","method":"GET","responseTime":"6.48ms","statusCode":200,"timestamp":"2024-11-22T09:14:53.865Z","url":"/api/phones/"}
+{"duration":"8ms","level":"info","message":"Время выполнения запроса","method":"GET","timestamp":"2024-11-22T09:14:53.866Z","url":"/api/phones/"}
